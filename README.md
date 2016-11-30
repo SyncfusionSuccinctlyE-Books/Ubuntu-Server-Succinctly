@@ -1,6 +1,6 @@
 # README #
 
-Every file in the repo is a small bashscript sample.
+Every file in the repo is a small bash script sample.
 
 ### Ubuntu Server Succinctly samples ###
 
