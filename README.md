@@ -4,7 +4,7 @@ This is the companion repo for [*Ubuntu Server Succinctly*](https://www.syncfusi
 
 Every file in the repo is a small bash script sample.
 
-Follow the instructions in every script sample in order to run each one of them.
+Follow the instructions in each script to run it.
 
 [![cover](https://github.com/SyncfusionSuccinctlyE-Books/Ubuntu-Server-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/resources/techportal/details/ebooks/Ubuntu_Server_Succinctly)
 
